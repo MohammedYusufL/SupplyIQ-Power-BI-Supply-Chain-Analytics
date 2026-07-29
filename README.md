@@ -54,7 +54,8 @@ The dashboard enables business users to monitor inventory, logistics, suppliers,
 
 Landing page with navigation across all analytical pages.
 
-![Home Dashboard](Images/home_dashboard.png)
+![Home Dashboard](home_dashboard.png)
+
 
 ---
 
@@ -69,7 +70,7 @@ Business KPIs including:
 - Damage Rate
 - Return Rate
 
-![Executive Dashboard](Images/executive_dashboard.png)
+![Executive Dashboard](executive_dashboard.png)
 
 ---
 
@@ -84,7 +85,7 @@ Features:
 - Overstock Detection
 - Low Stock Analysis
 
-![Inventory Analytics](Images/inventory_analytics.png)
+![Inventory Analytics](inventory_analytics.png)
 
 ---
 
@@ -101,7 +102,7 @@ Includes:
 - Transport Mode
 - On-Time Delivery
 
-![Logistics Analytics](Images/logistics_analytics.png)
+![Logistics Analytics](logistics_analytics.png)
 
 ---
 
@@ -117,7 +118,7 @@ Includes:
 - Delivery Performance
 - Supplier Comparison
 
-![Supplier Performance](Images/supplier_performance.png)
+![Supplier Performance](supplier_performance.png)
 
 ---
 
@@ -130,15 +131,15 @@ Python-powered product clustering based on
 - Shipping Cost
 - Delivery Performance
 
-![Product Segmentation](Images/product_segmentation.png)
-
+![Product Segmentation](product_segmentation.png)
 ---
 
 ## 💡 Executive Recommendations
 
 Business recommendations generated from analytical insights.
 
-![Executive Recommendations](Images/executive_recommendations.png)
+![Executive Recommendations](executive_recommendations.png)
+
 
 ---
 
@@ -154,7 +155,7 @@ Download the complete dashboard walkthrough.
 
 The project follows a Star Schema data model for optimized reporting and Power BI performance.
 
-![Star Schema](Images/star_schema.png)
+![Star Schema](star_schema.png)
 
 ---
 
