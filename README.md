@@ -305,7 +305,8 @@ Aspiring Data Analyst | Power BI Developer
 
 ### Connect with me
 
-- LinkedIn: *(Add your LinkedIn profile URL)*
+- LinkedIn: www.linkedin.com/in/mohammed-yusuf-lahori-0aa115420
+
 - GitHub: https://github.com/MohammedYusufL
 
 ---
