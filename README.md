@@ -1,8 +1,7 @@
 <div align="center">
 
 # 📦 SupplyIQ — Power BI Supply Chain Analytics
-
-![Banner]banner.png
+![Banner](banner.png)
 
 ### End-to-End Supply Chain Analytics Dashboard using SQL, Python & Power BI
 
