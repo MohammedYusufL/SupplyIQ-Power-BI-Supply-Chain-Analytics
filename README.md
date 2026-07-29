@@ -147,7 +147,7 @@ Business recommendations generated from analytical insights.
 
 Download the complete dashboard walkthrough.
 
-➡️ **[SupplyIQ Dashboard Demo](Video/supplyiq_demo.mp4)**
+➡️[📥 Download Demo Video](supplyiq_demo.mp4)
 
 ---
 
